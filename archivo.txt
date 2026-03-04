@@ -1,0 +1,3 @@
+Mi PRIMER ARCHIVO GIT
+
+Segunda linea desde la rama registro
